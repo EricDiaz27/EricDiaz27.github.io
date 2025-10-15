@@ -1,2 +1,2 @@
 # EricDiaz27.github.io
-description: This is my portfolio of projects from SNHU
+self-assessment: This is my portfolio of projects from SNHU
