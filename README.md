@@ -1,12 +1,15 @@
 # I'm Eric Diaz
 
 This is my portfolio of projects from SNHU!
-I am bjkjdbkjblkbabsdlkjsdl
 
---
+I have learned many skills while pursuing a computer science degree. I’ve learned Java, C++, and Python. I also learned other important skills like NoSQL and web development. From the projects below the first one showcases my ability using Python and making functionality out of embedded systems. The second project utilizes OpenGL which is coded in C++. It showcases my use of data structures and algorithms creating a 3D scene. The third project is a website developed using the MEAN stack. It utilizes MongoDB showing my skills with NoSQL. 
 
 ## Code Review Video of Orginal Projects
-Youtube Link
+[Project One Code Review](https://youtu.be/xW6AwK9TaNQ)
+
+[Project Two Code Review](https://youtu.be/PVXV-zD3f_E)
+
+[Project Three Code Review](https://youtu.be/BcvKwpgJcA4)
 
 ## The Orginal Projects
 
