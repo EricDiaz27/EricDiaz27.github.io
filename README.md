@@ -25,13 +25,13 @@ The project that best aligned with databases was from the class CS465 Full Stack
 
 ## Project Enchanments
 
-### [Project One]()
+### [Project One](https://github.com/EricDiaz27/cs499P1)
 For the project one enhancement I wanted to add more to the UI. What I did was add an Up arrow when the user wanted to raise the temperature. A down arrow for when the user wanted it colder. I also added a pause symbol when the temperature goal was met. To make this functionality I add if and else statements to ensure if certain criteria are met the symbols will show.
 
-### [Project Two]()
+### [Project Two](https://github.com/EricDiaz27/cs499P2)
 For the project two enhancements I made a new 3D scene. The scene is a trail in a forest, making this scene was great.  The process of modifying the artifact was not too hard since I left great comments so I can remember where everything is and what it does. I learned how to fix texture UVs in OpenGL, specifically on the dirt texture because it was super stretched at first. I tried to make the trees have branches but I realized how hard that is going to be, so I opted to have the trees be huge and tall so you actually can't see the branches if you are on the trail. The main component that shows off my skill is making meshes trying to look like a real life object.  I also used Blender to make custom bark and dirt textures for this project, which utilizes understanding data structures to make anything in Blender.
 
-### [Project Three]()
+### [Project Three](https://github.com/EricDiaz27/cs499P3)
 For this project three enhancement I switched it to something I would like, so I made it into an e-commerce store like ebay, but it is art related where you can only sell pieces of art. I used the MEAN stack for it  and working with MongoDB is great. It is easy to understand the tables and it’s easy to connect the database to the application. I made a create function and edit function for the database to collect the data. Making a new site was challenging because using angular is still a little difficult for me.
 
 
